@@ -1,1 +1,1 @@
-# -Hackintosh-msi-ge62-6QC
+# hackintosh-msi-ge62-6QC
